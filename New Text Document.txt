@@ -1,0 +1,114 @@
+please wait for me 2 min ...
+Sorry 
+:)
+Just 2 mins :)
+ok. np. :)
+OK
+plz continue
+Are you installed curl?
+I didn't
+ok.
+
+hi
+you there?
+  yes
+i don't  know why don't launch google chrome.
+
+m-server-standalone-3.141.59.jar file is server file.
+erver.bat file is that run  server
+
+
+
+
+---- Sorry --
+I want to say something
+
+Actually,,, Before post this project to Freelancer.com
+I did all steps which you guide
+However, I still couldn't open chrome
+That's why I hire your team.
+Do you understand,,,?
+
+understand.
+
+Do you install visual studio? ... I install it,,,, however 
+I don't want to use Visual lib ,,, because I will build this project on other computer without Visual studio
+-.i means it not.
+I use VS2015, i get lib with VS
+
+I'm using visual 2017.
+Can you want to try build lib again with visual 2017?
+okay.
+
+Can you connect my computer?
+i will show results.
+
+
+
+kakak ... Why is success?? :)
+
+Your project is debug.
+but  my lib is  release.
+so it don't working.
+
+You can try with firefox?
+
+
+i can't find  firefox  driver
+Please you find firefox driver as chromedriver.exe and  IEDriverservice.exe
+
+Could you find  firefoxdriver?
+I tried it on but I couldn't find it
+
+me too , i can't find  firefoxdriver.
+
+
+if  you find that, you add only  inrun-server.bat 
+OK ... I got it
+
+
+Currently. Ie and chrome working well.
+Ok
+ ,,,,, Your mission is done..
+
+I will release milestone
+
+However.... I need to do some advanced task...
+Are you expert selenium? 
+
+no, i am not expert.
+but i am an amateur.
+
+If I need to grow up this project,, Your team can do it?
+Yes, i can ...
+OK ... I will contact your again with a new milestone.
+Thanks for your support
+:)
+me too
+Are y.ou chinese?
+yes.
+Ahah ... Nice to meet you ... My neighbhood :)
+Have a nice day///
+Glad  to meet youu.
+Thanks.
+bye for now
+
+Bye. :
+
+
+
+.. 
+I want buid on my computer to know whe
+
+
+1. first install curl.
+i will install curl now.
+ok? ok?
+i am sending curl source now.
+please wait.
+
+2. add library curl lib
+
+3. run server
+
+4. launch your program.
